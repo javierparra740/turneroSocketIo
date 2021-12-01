@@ -1,0 +1,9 @@
+.item{
+    list-style: none;
+    background-color: cornflowerblue;
+    border-radius: 0 10px 10px 0;
+}
+.user{
+    font-style: italic;
+    font-weight: 700;
+}
